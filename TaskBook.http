@@ -1,0 +1,6 @@
+@TaskBook_HostAddress = http://localhost:5290
+
+GET {{TaskBook_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
